@@ -1,0 +1,40 @@
+#задача 6
+print("Задача №6")
+n = int(input("Введите n: "))
+i = 1
+while i < n:
+    print(i)
+    i += 1
+    
+#задача 7
+print("Задача №7")
+a = float(input("Введите вещественное число a: "))
+i = 1
+sm = 0 
+while sm <= a:
+    sm += 1/i
+    i += 1
+    if sm > a:
+        print(i-1)
+
+#задача 8 
+print("Задача №8")
+n = int(input("Введите n: "))
+i = 1 
+while i ** 2 < n:
+    i +=1 
+print(i)
+
+#задача 9
+print("Задача №9")
+i = 201
+while i % 17 != 0:
+    i +=1 
+print(i)
+
+#задача 10
+print("Задача №10")
+i = 599
+while i % 28 != 0:
+    i -= 1
+print(i)
