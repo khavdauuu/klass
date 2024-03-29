@@ -1,3 +1,4 @@
+#coding: utf-8
 num1 = 23
 num2 = 42
 
