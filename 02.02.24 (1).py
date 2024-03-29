@@ -1,3 +1,4 @@
+#coding: utf-8
 tseloe = 10
 drobnoe = 8.4 
 stroka = "No"
