@@ -1,3 +1,4 @@
+#coding: utf-8
 num = 23
 num1 = 82
 print(num > 20 and num1 != 28)
