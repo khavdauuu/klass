@@ -1,3 +1,4 @@
+#coding: utf-8
 # задача 4
 def schet ():
     is_year_leap = input("Напишите дней в году: ")
