@@ -1,3 +1,4 @@
+#coding: utf-8
 def schet ():
     a = input("Введите первое число: ")
     a = float(a)
