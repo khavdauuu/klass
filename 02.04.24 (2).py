@@ -1,3 +1,4 @@
+#coding: utf-8
 # задача 1
 print("Задача 1")
 def schet ():
